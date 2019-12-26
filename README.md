@@ -27,7 +27,8 @@ As long as your diretories match the naming of the symlinks everything will work
 
  
 
-```MegaCD/
+```
+MegaCD/
 ├── 1 US A-E
 │   └── Put A-E directories with bin and que files here.txt
 ├── 1 US F-J
