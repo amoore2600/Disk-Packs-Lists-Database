@@ -10,7 +10,7 @@ I may add other regions in the future.
 
 The naming convention for the symlink files is based on the REDUMP naming convention.
 
-How to install:
+**How to install:**
    
 	unzip file in /media/fat/games on your MiSTer
 
