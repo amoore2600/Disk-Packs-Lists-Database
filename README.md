@@ -1,9 +1,9 @@
 # Disk-Packs-Lists-Database
 A database of disk based consoles grenrated from the Smoke Monster parse_pack.py found at: https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database 
 
-#AMoore2600 Curated MiSTer - MegaCD
+**AMoore2600 Curated MiSTer - MegaCD**
 
-his curation is based only on North American games "(USA)" 
+This curation is based only on North American games "(USA)" 
 
 I may add other regions in the future. 
 
