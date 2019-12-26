@@ -1,7 +1,8 @@
 # Disk-Packs-Lists-Database
 A database of disk based consoles grenrated from the Smoke Monster parse_pack.py found at: https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database 
 
-**AMoore2600 Curated MiSTer - MegaCD**
+
+# AMoore2600 Curated MiSTer - MegaCD
 
 This curation is based only on North American games "(USA)" 
 
@@ -18,7 +19,7 @@ This curation is losely based from http://www.rfgeneration.com/cgi-bin/search.pl
 
 240P Test Suite is distibuted GLP: http://junkerhq.net/xrgb/index.php?title=240p_test_suite
 
-File bug Reports/Comments/Questions at https://github.com/amoore2600/Disk-Packs-Lists-Database
+Please File bug Reports/Comments/Questions at https://github.com/amoore2600/Disk-Packs-Lists-Database/issues
 
 This is a first take, I am sure it will get better in time.
 
