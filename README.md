@@ -27,7 +27,7 @@ As long as your diretories match the naming of the symlinks everything will work
 
  
 
-`MegaCD/
+MegaCD/
 ├── 1 US A-E
 │   └── Put A-E directories with bin and que files here.txt
 ├── 1 US F-J
@@ -168,5 +168,5 @@ As long as your diretories match the naming of the symlinks everything will work
 │       └── 240p Test Suite (USA) [v1.21].cue
 ├── 4 SEGACD Bios
 │   └── Put BIOS Files here.txt
-└── README.txt`
+└── README.txt
 
