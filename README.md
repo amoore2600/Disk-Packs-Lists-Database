@@ -8,7 +8,9 @@ This curation is based only on North American games "(USA)"
 
 I may add other regions in the future. 
 
-The naming convention for the symlink files is based on the REDUMP naming convention.
+The naming convention for the symlink files is based on the REDUMP naming convention. 
+
+BECAUSE THIS USES SYMLINKS IT DOES NOT USE MULTIPLE COPIES OF EACH DIRECTORY/DISK.
 
 **How to install:**
    
@@ -23,7 +25,7 @@ Please File bug Reports/Comments/Questions at https://github.com/amoore2600/Disk
 
 This is a first take, I am sure it will get better in time.
 
-As long as your diretories match the naming of the symlinks everything will work. See below.
+*As long as your diretories match the naming of the symlinks everything will work. See below.*
 
  
 
